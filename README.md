@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mohammed almoutaz
-- im intersting when i halp you to make your cv
+- im intersting to i help you to make your cv
 -<!DOCTYPE html>
 <html lang="en">
 <head>
